@@ -2,6 +2,6 @@
 
 
 
-![Finished App](https://github.com/hakkicansengonul/demo/blob/master/bmi-calc-demo.gif)
+![Finished App](https://github.com/hakkicansengonul/images/blob/master/furniture_app.gif)
 
 github: https://github.com/hakkicansengonul
